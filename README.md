@@ -1,4 +1,4 @@
 # NewTestament Rappers
 
-## Promotes christian rappers
+Promotes christian rappers
 
